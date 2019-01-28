@@ -1,0 +1,8 @@
+
+#pastas especificas
+/node_modules
+/wallet
+
+#arquivos especificos
+.env
+package-lock.json
